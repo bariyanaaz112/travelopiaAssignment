@@ -6,8 +6,8 @@ function Armela() {
         <>
             <div className="overlay-container">
 
-                <img src="https://res.cloudinary.com/enchanting/q_80,f_auto,c_lfill,w_360,h_110,g_auto/exodus-web/2022/07/armenia-2.jpg"
-                    alt="mountains" width="100%" style={{ width: '100%', height: 'auto', maxWidth: '100%' }} />
+            <img src="https://res.cloudinary.com/enchanting/q_80,f_auto,c_lfill,w_1600,h_400,g_auto/exodus-web/2022/07/armenia-2.jpg"
+                    alt="mountains" style={{ width: '100%', height: 'auto' }} />
 
 
                 <div className="overlay-text">
