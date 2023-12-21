@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/travelopiaAssignment/static/css/main.e5a291d1.css",
+    "main.js": "/travelopiaAssignment/static/js/main.8ef600b3.js",
+    "static/js/787.6b855ff7.chunk.js": "/travelopiaAssignment/static/js/787.6b855ff7.chunk.js",
+    "index.html": "/travelopiaAssignment/index.html",
+    "main.e5a291d1.css.map": "/travelopiaAssignment/static/css/main.e5a291d1.css.map",
+    "main.8ef600b3.js.map": "/travelopiaAssignment/static/js/main.8ef600b3.js.map",
+    "787.6b855ff7.chunk.js.map": "/travelopiaAssignment/static/js/787.6b855ff7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5a291d1.css",
+    "static/js/main.8ef600b3.js"
+  ]
+}
